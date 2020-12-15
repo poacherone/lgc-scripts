@@ -16,6 +16,4 @@ def associatedMedia  = hold.graph[1].associatedMedia
     
     })
   }
-  
-  
-  groovy.lang.MissingMethodException: No signature of method: java.lang.String.removeIf() is applicable for argument types: (Script1$_run_closure1$_closure2) values: [Script1$_run_closure1$_closure2@72861723]
+ 
