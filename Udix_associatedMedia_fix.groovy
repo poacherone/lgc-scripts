@@ -1,4 +1,4 @@
-PrintWriter failedHoldIDs = getReportWriter("failed-holdIDs")
+PrintWriter failedUpdating = getReportWriter("failed-updates")
 PrintWriter scheduledForUpdating = getReportWriter("scheduled-updates")
 
 File HoldIDs = new File(scriptDir, "Udix_ID.txt")
